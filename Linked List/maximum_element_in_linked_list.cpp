@@ -1,4 +1,3 @@
-/*
 
 max=MIN_INT;
 max=-32768;
@@ -15,7 +14,7 @@ int max(Struct Node *p)
 }
 
 
-Recursive Way
+// Recursive Way
 ----------------------
 
 int max(Struct Node *p)
@@ -35,7 +34,7 @@ int max(Struct Node *p)
 }
 
 
-Other ways of writing the above code 
+// Other ways of writing the above code 
 -------------------------------------
 
 int max(Struct Node *p)
@@ -50,5 +49,3 @@ int max(Struct Node *p)
      return (x>p->data)?x:p->data;
     }
 }
-
-*/

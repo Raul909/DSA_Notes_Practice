@@ -1,4 +1,4 @@
-/*
+
 int Add(Struct Node *p)
 {
     int sum=0;
@@ -10,10 +10,10 @@ int Add(Struct Node *p)
     return sum;
 }               
 
-T.C -- > O(n)                n--> no. of nodes in linked list
+// T.C -- > O(n)                n--> no. of nodes in linked list
 
 
-Recursive Way
+//Recursive Way
 --------------
 
 int Add(Struct Node *p)
@@ -26,7 +26,6 @@ int Add(Struct Node *p)
 
 }
 
-T.C--> O(n)
-S.C--> O(n) Since recursion uses Stack
+//T.C--> O(n)
+//S.C--> O(n) Since recursion uses Stack
 
-*/

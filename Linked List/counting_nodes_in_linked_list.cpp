@@ -1,4 +1,4 @@
-/*
+
 
 count = 0;
 
@@ -16,7 +16,7 @@ int count (Struct Node *p)
 
 
 
-Recursive Way 
+// Recursive Way 
 
 -----------------------
 
@@ -35,11 +35,11 @@ int count (Struct Node *p)
 return 1 + count(p->next); --> This cannot be done because we don't know the value of c(210) and so we cannot calculate the value at calling time so it's should be calculated at the returning time.
 
 
-Other ways to write the Above Recursive Function 
+// Other ways to write the Above Recursive Function 
 --------------------------------------------------
 
 
-(i)
+//(i)
 
 if(p!=NULL)
 return count(p->next) + 1 
@@ -47,7 +47,7 @@ return count(p->next) + 1
 else return 0;
 
 
-(ii)
+//(ii)
 
 int count(struct Node *p)
 {
