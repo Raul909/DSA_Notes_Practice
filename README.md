@@ -1,8 +1,8 @@
 # DSA_Notes_Practice
 Here are my notes for DSA that I have learning from Abdul Bari DSA Course on C++.
 
-<div>
-                <h2>Introduction to DSA</h2>
+        <div> 
+               <h2>Introduction to DSA</h2>
                 <a
                         href="https://github.com/Raul909/DSA_Notes_Practice/blob/33c88c5d803519fcd1a160714a92f78c0408cc8a/Introduction/introduction_to_ds.cpp">Introduction
                         to Data Structures</a><br>
@@ -22,7 +22,7 @@ Here are my notes for DSA that I have learning from Abdul Bari DSA Course on C++
                 <a
                         href="https://github.com/Raul909/DSA_Notes_Practice/blob/33c88c5d803519fcd1a160714a92f78c0408cc8a/Introduction/Time_and_space_complexity.cpp">Time
                         and Space Complexity</a><br>
-        </div>
+                </div>
 
 
         <div>
@@ -205,3 +205,4 @@ Here are my notes for DSA that I have learning from Abdul Bari DSA Course on C++
                         for Loop in Singly Linked List</a><br>
 
         </div>
+        
