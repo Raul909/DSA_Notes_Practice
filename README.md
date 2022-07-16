@@ -2,6 +2,8 @@
 Here are my notes for DSA that I have learning from Abdul Bari DSA Course on C++.
 
 
+    
+
 Introduction to DSA
 -------------------
 
@@ -70,4 +72,23 @@ Linked List
 [Reversing a Singly Linked List](https://github.com/Raul909/DSA_Notes_Practice/blob/33c88c5d803519fcd1a160714a92f78c0408cc8a/Linked%20List/reversing_linked_list.cpp)  
 [Concatenating Two Singly Linked Lists](https://github.com/Raul909/DSA_Notes_Practice/blob/33c88c5d803519fcd1a160714a92f78c0408cc8a/Linked%20List/concatenating_two_linked_lists.cpp)  
 [Merging Two Singly Linked List](https://github.com/Raul909/DSA_Notes_Practice/blob/33c88c5d803519fcd1a160714a92f78c0408cc8a/Linked%20List/merging_linked_list.cpp)  
-[Checking for Loop in Singly Linked List](https://github.com/Raul909/DSA_Notes_Practice/blob/33c88c5d803519fcd1a160714a92f78c0408cc8a/Linked%20List/checking_for_loop_in_linked_list.cpp)
+[Checking for Loop in Singly Linked List](https://github.com/Raul909/DSA_Notes_Practice/blob/7d40596c181e1b5e6f0487becfc332a0287156f1/Linked%20List/checking_for_loop_in_linked_list.cpp)  
+[Circular Linked List](https://github.com/Raul909/DSA_Notes_Practice/blob/aed6fc181734e8d846a6e10ea7aa92cbcbfc75cc/Linked%20List/circular_linked_list_intro.cpp)  
+[Display Circular Linked List](https://github.com/Raul909/DSA_Notes_Practice/blob/aed6fc181734e8d846a6e10ea7aa92cbcbfc75cc/Linked%20List/display_circular_linked_list.cpp)  
+[Inserting in Circular Linked List](https://github.com/Raul909/DSA_Notes_Practice/blob/aed6fc181734e8d846a6e10ea7aa92cbcbfc75cc/Linked%20List/inserting_in_circular_linked_list.cpp)  
+[Deleting from Circular Linked List](https://github.com/Raul909/DSA_Notes_Practice/blob/aed6fc181734e8d846a6e10ea7aa92cbcbfc75cc/Linked%20List/deleting_from_circular_linked_list.cpp)  
+[](https://github.com/Raul909/DSA_Notes_Practice/blob/aed6fc181734e8d846a6e10ea7aa92cbcbfc75cc/Linked%20List/doubly_linked_list.cpp)Doubly Linked List  
+[Inserting in Doubly Linked List](https://github.com/Raul909/DSA_Notes_Practice/blob/aed6fc181734e8d846a6e10ea7aa92cbcbfc75cc/Linked%20List/inserting_in_doubly_linked_list.cpp)  
+[Deleting from Doubly Linked List](https://github.com/Raul909/DSA_Notes_Practice/blob/7d40596c181e1b5e6f0487becfc332a0287156f1/Linked%20List/deleting_from_doubly_linked_list.cpp)  
+[Displaying Doubly Linked List](https://github.com/Raul909/DSA_Notes_Practice/blob/7d40596c181e1b5e6f0487becfc332a0287156f1/Linked%20List/displaying_doubly_linked_list.cpp)  
+[Reversing a Doubly Linked List](https://github.com/Raul909/DSA_Notes_Practice/blob/7d40596c181e1b5e6f0487becfc332a0287156f1/Linked%20List/reversing_doubly_linked_list.cpp)  
+[Circular doubly Linked List](https://github.com/Raul909/DSA_Notes_Practice/blob/7d40596c181e1b5e6f0487becfc332a0287156f1/Linked%20List/circular_doubly_linked_list.cpp)  
+[Inserting in Circular Doubly Linked List](https://github.com/Raul909/DSA_Notes_Practice/blob/7d40596c181e1b5e6f0487becfc332a0287156f1/Linked%20List/inserting_in_circular_doubly_linked_list.txt) [Comparision of Array with Linked List](https://github.com/Raul909/DSA_Notes_Practice/blob/7d40596c181e1b5e6f0487becfc332a0287156f1/Linked%20List/comparision_of_array_with_linked_list.txt)
+
+Stacks
+------
+
+[Introduction to stacks](https://github.com/Raul909/DSA_Notes_Practice/blob/7d40596c181e1b5e6f0487becfc332a0287156f1/Stacks/stack_intro.txt)  
+[Implementation of stack using arrays](https://github.com/Raul909/DSA_Notes_Practice/blob/7d40596c181e1b5e6f0487becfc332a0287156f1/Stacks/implementation_of_stack_using_arrays.cpp)  
+[Implementation of stack using Linked List](https://github.com/Raul909/DSA_Notes_Practice/blob/7d40596c181e1b5e6f0487becfc332a0287156f1/Stacks/implementation_of_stack_using_linked_list.cpp)  
+[Paranthesis Matching using Stack](https://github.com/Raul909/DSA_Notes_Practice/blob/7d40596c181e1b5e6f0487becfc332a0287156f1/Stacks/paranthesis_matching.cpp) [More on Paranthesis Matching](https://github.com/Raul909/DSA_Notes_Practice/blob/7d40596c181e1b5e6f0487becfc332a0287156f1/Stacks/more_on_paranthesis_matching.cpp)
