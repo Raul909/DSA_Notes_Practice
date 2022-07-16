@@ -1,0 +1,60 @@
+Using these data structures we implement other data structures.
+
+#Arrays can be created in stack and heap.
+
+#Linked List is always created in the heap.
+-Size of Array is fixed.
+-Linked List of variable size unless heap is full.
+
+#Array will occupy space only for data.
+#Linked List will occupy space for data and also pointer to the next node.
+
+
+#Array can be accessed randomly.
+#Linked List can be accessed sequentially.
+
+
+#Easier Access
+-Array is inside stack so it can be accessed faster.
+-Inside heap,two step access,indirect accessed.
+
+
+
+#Inserting
+-------------
+In array shifting of elements has to be done if an element is inserted at the beginning of the array and there are other elements
+after that while in linked list there is only changing of links and no data is moved
+
+When it comes to data movement linked list is better 
+
+
+
+#Deleting
+-----------
+In array both insertion and deletion takes place with the same time complexity 
+
+In linked list both insertion and deletion takes place with the same time complexity
+So linked list is better in deletion
+
+
+
+#Searching 
+-------------
+In Array we can perform :- Linear -> O(n)
+                           Binary Search -> O(log n)
+
+In Linked List we can perform :- Linear -> O(n)
+                                 Binary Search -> O(n log n)    //extra n time complexity for finding out the middle element
+
+So basically binary search is inefficient upon Linked List.
+
+
+
+
+
+#Sorting
+---------
+Most of the sorting methods are designed for array and some of the sorting methods are designed for linked list 
+
+Ex:-
+Insertion Sort and Merge Sort is more suitable to linked list 

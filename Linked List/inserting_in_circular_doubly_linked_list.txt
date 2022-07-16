@@ -1,0 +1,8 @@
+
+Inserting in any other position other than Head -> You have to modify 4 links similar to that of doubly linked list
+
+Inserting in First Position -> Address of Head's previous can be fetched in constant time.
+(Last Node)(A Node previous to Head Node)
+
+Time Complexity -> O(1)
+

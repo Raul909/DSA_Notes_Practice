@@ -19,11 +19,10 @@ struct Stack
     char *s;
 };
 
-void push(Stack *st, char x);
+void push(struct Stack *st, char x)
 {
     if (st->Top == st->size - 1)
         cout << "Stack overflow"<< "\n";
-
     else
     {
         st->Top++;
@@ -31,17 +30,18 @@ void push(Stack *st, char x);
     }
 }
 
-void pop(Stack *st)
+void pop(struct Stack *st)
 {
     if (st->Top == -1)
-        printf("Stack underflow")
+        cout << "Stack underflow"<< "\n";
 
-            else st->Top--;
+    else
+        st->Top--;
 }
 
 int isEmpty(Stack st)
 {
-    if (st->Top == -1)
+    if (st.Top == -1)
         return 1;
     else
         return 0;
@@ -51,10 +51,10 @@ bool isBalance(char *exp)
 {
     struct Stack st;
 
-    st->size = strlen(exp);
-    st->Top - -1;
+    st.size = strlen(exp);
+    st.Top = -1;
 
-    st->s = new char[st->size]; // Array of character is created
+    st.s = new char[st.size]; // Array of character is created
 
     for (int i = 0; exp[i] != '\0'; i++)
     {

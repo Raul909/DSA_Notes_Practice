@@ -1,0 +1,33 @@
+1.Introduction/Application
+
+2.ADT Stack
+
+
+Stack works in disciplined in LIFO(Last in First Out) i.e., The last element inserted has to be deleted first.
+
+
+ADT Stack
+----------
+ADT just gives the definition of a stack in terms of data representation and the operations that can be performed.
+
+
+Data
+-----
+
+1.Space for storing elements 
+2.Top Pointer
+
+
+
+
+Operations
+-----------
+1.Push(x)   --> to push a value in the stack.
+2.Pop()     --> to pop/delete/remove a value from the stack
+3.Peek(index)    --> to peek a value from the stack i.e., looking for a value at a given position
+4.StackTop()     --> to find the value present at the topmost of stack
+5.isEmpty()      --> to check if the stack is empty or not
+6.isFull()       --> to check if the stack is full or not
+
+
+#We use arrays and linked list to implement stack
