@@ -1,3 +1,22 @@
+<style>
+  body {
+    background-image: url('https://example.com/image.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .box {
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+
+  h1, h2, h3 {
+    font-family: 'Montserrat', sans-serif;
+  }
+</style>
+
 # DSA_Notes_Practice
 Here are my notes for DSA that I have learning from Abdul Bari DSA Course on C++.
 
