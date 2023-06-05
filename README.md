@@ -1,23 +1,6 @@
-<style>
-  body {
-    background-image: url('DSA_Notes_Practice');
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
-  
-  .box {
-    background-color: #f0f0f0;
-    border-radius: 10px;
-    padding: 20px;
-    margin-bottom: 20px;
-  }
-
-  h1, h2, h3 {
-    font-family: 'Montserrat', sans-serif;
-  }
-</style>
 
 # DSA_Notes_Practice
+
 Here are my notes for DSA that I have learning from Abdul Bari DSA Course on C++.
 
 
@@ -80,12 +63,13 @@ Here are my notes for DSA that I have learning from Abdul Bari DSA Course on C++
 
 [Row Column Major Mapping](https://github.com/Raul909/DSA_Notes_Practice/blob/33c88c5d803519fcd1a160714a92f78c0408cc8a/Array_Representation/Row_Column_major_mapping.cpp)  
 
+
 ## Arrays ADT
 ----------
 
 [Intro Array ADT](https://github.com/Raul909/DSA_Notes_Practice/blob/33c88c5d803519fcd1a160714a92f78c0408cc8a/Array%20ADT/array_ADT_intro.cpp)  
 
-Strings
+## Strings
 -------
 
 [Intro to Strings](https://github.com/Raul909/DSA_Notes_Practice/blob/33c88c5d803519fcd1a160714a92f78c0408cc8a/Strings/intro.cpp)  
@@ -96,7 +80,7 @@ Matrices
 Sparse Matrix and Polynomial Representation
 -------------------------------------------
 
-Linked List
+## Linked List
 -----------
 
 [Intro to Linked List](https://github.com/Raul909/DSA_Notes_Practice/blob/33c88c5d803519fcd1a160714a92f78c0408cc8a/Linked%20List/intro.cpp)  
@@ -151,7 +135,7 @@ Linked List
 
 [Comparision of Array with Linked List](https://github.com/Raul909/DSA_Notes_Practice/blob/7d40596c181e1b5e6f0487becfc332a0287156f1/Linked%20List/comparision_of_array_with_linked_list.txt)
 
-Stacks
+## Stacks
 ------
 
 [Introduction to stacks](https://github.com/Raul909/DSA_Notes_Practice/blob/7d40596c181e1b5e6f0487becfc332a0287156f1/Stacks/stack_intro.txt)  
